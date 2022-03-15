@@ -52,4 +52,18 @@ I also study English. I did not know English before. I studied German at School.
 **********
 [Custom Video](https://rolling-scopes-school.github.io/mishalapa-JSFEPRESCHOOL/custom-video)
 *********
+### Code Examples:
+``` 
+bestScore.disabled = true;
+playButton.disabled = true;
+backArroy.disabled = true;
+playButton.addEventListener('click', playGame);
+marvelButton.addEventListener('click', marvelGame);
+dcButton.addEventListener('click', dcGame);
+bestScore.addEventListener('click', openResult)
+backButton.addEventListener('click', () => {
+  window.location.reload()
+}) 
+```
+
 
