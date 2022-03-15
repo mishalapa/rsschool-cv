@@ -51,7 +51,7 @@ I also study English. I did not know English before. I studied German at School.
 [Portfolio](https://rolling-scopes-school.github.io/mishalapa-JSFEPRESCHOOL/portfolio)
 **********
 [Custom Video](https://rolling-scopes-school.github.io/mishalapa-JSFEPRESCHOOL/custom-video)
-*********
+********
 ### Code Examples:
 ``` 
 bestScore.disabled = true;
