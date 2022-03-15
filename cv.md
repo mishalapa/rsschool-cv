@@ -34,3 +34,22 @@ I also study English. I did not know English before. I studied German at School.
 3. Metal Detector.
 
 **********
+### Languages:
+#### English - A2+.
+#### German - A1.
+#### Belarussian - Native.
+#### Russian - Native.
+
+**********
+### My Projects:
+[Memory Game](https://rolling-scopes-school.github.io/mishalapa-JSFEPRESCHOOL/memory-game)
+**********
+[Calculator](https://mishalapa.github.io/Calculator)
+**********
+[Image Galery](https://rolling-scopes-school.github.io/mishalapa-JSFEPRESCHOOL/image-galery)
+**********
+[Portfolio](https://rolling-scopes-school.github.io/mishalapa-JSFEPRESCHOOL/portfolio)
+**********
+[Custom Video](https://rolling-scopes-school.github.io/mishalapa-JSFEPRESCHOOL/custom-video)
+*********
+
